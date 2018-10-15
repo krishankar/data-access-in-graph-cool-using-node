@@ -1,0 +1,1127 @@
+Slno,SectionNo,Type,Title
+1,1,IPC,Title and extent of operation of the Code
+2,2,IPC,Punishment of offences committed within India
+3,3,IPC,Punishment of offences committed beyond but which by law may be tried within India
+4,4,IPC,Extension of Code to extra-territorial offences
+5,5,IPC,Certain laws not to be affected by this Act
+6,6,IPC,Definitions in the Code to be understood subject to exceptions
+7,7,IPC,Sense of expression once explained
+8,8,IPC,Gender
+9,9,IPC,Number
+10,10,IPC,Man, Woman
+11,11,IPC,Person
+12,12,IPC,Public
+13,13,IPC,[Titled Queen repealed by the Govt. of India (Adaptation of Indian Laws) Order,  1950]
+14,14,IPC,Servant of Government
+15,15,IPC,[Titled British India repealed by the Govt. of India (Adaptation of Indian Laws) Order,  1937]
+16,16,IPC,[Titled Government of India repealed by the Govt. of India (Adaptation of Indian Laws) Order,  1937]
+17,17,IPC,Government
+18,18,IPC,India
+19,19,IPC,Judge
+20,20,IPC,Court of Justice
+21,21,IPC,Public Servant
+22,22,IPC,Movable property
+23,23,IPC,Wrongful gain
+24,24,IPC,Dishonestly
+25,25,IPC,Fraudulently
+26,26,IPC,Reason to believe
+27,27,IPC,Property in possession of wife, clerk or servant
+28,28,IPC,Counterfeit
+29,29,IPC,Document
+30,29A ,IPC,
+31,30,IPC,Valuable security
+32,31,IPC,A will
+33,32,IPC,Words referring to acts include illegal omissions
+34,33,IPC,Act, Omission
+35,34,IPC,Acts done by several persons in furtherance of common intention
+36,35,IPC,When such an act is criminal by reason of its being done with a criminal knowledge or intention
+37,36,IPC,Effect caused partly by act and partly by omission
+38,37,IPC,Co-operation by doing one of several acts constituting an offence
+39,38,IPC,Persons concerned in criminal act may be guilty of different offences
+40,39,IPC,Voluntarily
+41,40,IPC,Offence
+42,41,IPC,Special law
+43,42,IPC,Local law
+44,43,IPC,Illegal, Legally bound to do
+45,44,IPC,Injury
+46,45,IPC,Life
+47,46,IPC,Death
+48,47,IPC,Animal
+49,48,IPC,Vessel
+50,49,IPC,Year, Month
+51,50,IPC,Section
+52,51,IPC,Oath
+53,52,IPC,Good faith
+54,52A ,IPC,Harbor
+55,53,IPC,Punishment
+56,53A ,IPC,Construction of reference to transportation
+57,54,IPC,Commutation of sentence of death
+58,55,IPC,Commutation of sentence of imprisonment for life
+59,55A ,IPC,Definition of appropriate Government
+60,56,IPC,[Titled Sentence of Europeans and Americans to penal servitude, proviso as to sentence for term exceeding ten years but not for life repealed by the Criminal Law (Removal of Racial Discriminations) Act, 1949, w.e.f. 6th. April, 1949]
+61,57,IPC,Fractions of terms of punishment
+62,58,IPC,[Titled Offenders sentenced to transportation how dealt with until transported repealed by the Code of Criminal Procedure (Amendment) Act, 1955, w.e.f. 1st. January, 1956]
+63,59,IPC,[Titled Transportation instead of imprisonment repealed by the Code of Criminal Procedure (Amendment) Act, 1955, w.e.f. 1st. January, 1956]
+64,60,IPC,Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple
+65,61,IPC,[Titled Sentence of forfeiture of property repealed by the Indian Penal Code (Amendment) Act, 1921]
+66,62,IPC,[Titled Forfeiture of property in respect of offenders punishable with death, transportation or imprisonment repealed by the Indian Penal Code (Amendment) Act, 1921]
+67,63,IPC,Amount of fine
+68,64,IPC,Sentence of imprisonment for non-payment of fine
+69,65,IPC,Limit to imprisonment for non-payment of fine, when imprisonment and fine awardable
+70,66,IPC,Description of imprisonment for non-payment of fine
+71,67,IPC,Imprisonment for non-payment of fine, when offence punishable with fine only
+72,68,IPC,Imprisonment to terminate on payment of fine
+73,69,IPC,Termination of imprisonment on payment of proportional part of fine
+74,70,IPC,Fine leviable within six years or during imprisonment-Death not to discharge property from liability
+75,71,IPC,Limit of punishment of offence made up of several offences
+76,72,IPC,Punishment of person guilty of one of several offences, the judgment stating that it is doubtful of which
+77,73,IPC,Solitary confinement
+78,74,IPC,Limit of solitary confinement
+79,75,IPC,Enhanced punishment for certain offences under Chapter XII or Chapter XVII after previous conviction
+80,76,IPC,Act done by a person bound, or by mistake of fact believing himself bound, by law
+81,77,IPC,Act of Judge when acting judicially
+82,78,IPC,Act done pursuant to the judgment or order of Court
+83,79,IPC,Act done by a person justified, or by mistake of fact believing himself justified, by law
+84,80,IPC,Accident in doing a lawful act
+85,81,IPC,Act likely to cause harm, but done without criminal intent, and to prevent other harm
+86,82,IPC,Act of a child under seven years of age
+87,83,IPC,Act of a child above seven and under twelve of immature understanding
+88,84,IPC,Act of a person of-unsound mind
+89,85,IPC,Act of a person incapable of judgment by reason of intoxication caused against his will
+90,86,IPC,Offence requiring a particular intent or knowledge committed by one who is intoxicated
+91,87,IPC,Act not intended and not known to be likely to cause death or grievous hurt, done by consent
+92,88,IPC,Act not intended to cause death, done by consent in good faith for person's benefit
+93,89,IPC,Act done in good faith for benefit of child or insane person, by or by consent of guardian
+94,90,IPC,Consent known to be given under fear or misconception
+95,91,IPC,Exclusion of acts which are offences independently of harm caused
+96,92,IPC,Act done in good faith for benefit of a person without consent
+97,93,IPC,Communication made in good faith
+98,94,IPC,Act to which a person is compelled by threats
+99,95,IPC,Act causing slight harm
+100,96,IPC,Things done in private defense
+101,97,IPC,Right of private defense of the body and of property
+102,98,IPC,Right of private defense against the act of a person of unsound mind, etc.
+103,99,IPC,Acts against which there is no right of private defense
+104,100,IPC,When the right of private defense of the body extends to causing death
+105,101,IPC,When such right extends to causing any harm other than death
+106,102,IPC,Commencement and continuance of the right of private defense of the body
+107,103,IPC,When the right of private defense of property extends to causing death
+108,104,IPC,When such right extends to causing any harm other than death
+109,105,IPC,Commencement and continuance of the right of private defense of property
+110,106,IPC,Right of private defense against deadly assault when there is risk of harm to innocent person
+111,107,IPC,Abetment of a thing
+112,108,IPC,Abettor
+113,108A ,IPC,Abetment in India of offences outside India
+114,109,IPC,Punishment of abetment if the act abetted is committed in consequence, and where no express provision is made for its punishment
+115,110,IPC,Punishment of abetment if person abetted does act with different intention from that of abettor
+116,111,IPC,Liability of abettor when one act abetted and different act done
+117,112,IPC,Abettor when liable to cumulative punishment for act abetted and for act done
+118,113,IPC,Liability of abettor for an effect caused by the act abetted different from that intended by the abettor
+119,114,IPC,Abettor present when offence is committed
+120,115,IPC,Abetment of offence punishable with death or imprisonment for life-if offence not committed
+121,116,IPC,Abetment of offence punishable with imprisonment-if offence be not committed
+122,117,IPC,Abetting commission of offence by the public or by more than ten persons
+123,118,IPC,Concealing design to commit offence punishable with death or imprisonment for life
+124,119,IPC,Public servant concealing design to commit offence which it is his duty to prevent
+125,120,IPC,Concealing design to commit offence punishable with imprisonment
+126,120A ,IPC,Definition of criminal conspiracy
+127,120B ,IPC,Punishment of criminal conspiracy
+128,121,IPC,Waging, or attempting to wage war, or abetting waging of war, against the Government of India
+129,121A ,IPC,Conspiracy to commit offences punishable by section 121
+130,122,IPC,Collecting arms, etc., with intention of waging war against the Government of India
+131,123,IPC,Concealing with intent to facilitate design to wage war
+132,124,IPC,Assaulting President, Governor, etc., with intent to compel or restrain the exercise of any lawful power
+133,124A ,IPC,Sedition
+134,125,IPC,Waging war against any Asiatic Power in alliance with the Government of India
+135,126,IPC,Committing depredation on territories of Power at peace with the Government of India
+136,127,IPC,Receiving property taken by war on depredation mentioned in sections 125 and 126-
+137,128,IPC,Public servant voluntarily allowing prisoner of State or war to escape
+138,129,IPC,Public servant negligently suffering such prisoner to escape
+139,130,IPC,Aiding escape of, rescuing or harboring such prisoner
+140,131,IPC,Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty
+141,132,IPC,Abetment of mutiny, if mutiny is committed in consequence thereof
+142,133,IPC,Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office
+143,134,IPC,Abetment of such assault, if the assault is committed
+144,135,IPC,Abetment of desertion of soldier, sailor or airman
+145,136,IPC,Harboring deserter
+146,137,IPC,Deserter concealed on board merchant vessel through negligence of master
+147,138,IPC,Abetment of act of insubordination by soldier, sailor or airman
+148,138A ,IPC,[Titled Application of foregoing sections to the Indian Marine Service repealed by the Amending Act, 1934 (35 of 1934)]
+149,139,IPC,Persons subject to certain Acts
+150,140,IPC,Wearing garb or carrying token used by soldier, sailor or airman
+151,141,IPC,Unlawful assembly
+152,142,IPC,Being member of unlawful assembly
+153,143,IPC,Punishment
+154,144,IPC,Joining unlawful assembly armed with deadly weapon
+155,145,IPC,Joining or continuing in unlawful assembly, knowing it has been commanded to disperse
+156,146,IPC,Rioting
+157,147,IPC,Punishment for rioting
+158,148,IPC,Rioting, armed with deadly weapon
+159,149,IPC,Every member of unlawful assembly guilty of offence committed in prosecution of common object
+160,150,IPC,Hiring, or conniving at hiring, of persons to join unlawful assembly
+161,151,IPC,Knowingly joining or continuing in assembly of five or more persons after it has been commanded to disperse
+162,152,IPC,Assaulting or obstructing public servant when suppressing riot, etc.
+163,153,IPC,Wantonly giving provocation with intent to cause riot-if rioting be committed-if not committed
+164,153A ,IPC,Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony
+165,153AA ,IPC,
+166,153B ,IPC,Imputations, assertions prejudicial to national-integration
+167,154,IPC,Owner or occupier of land on which an unlawful assembly is held
+168,155,IPC,Liability of person for whose benefit riot is committed
+169,156,IPC,Liability of agent of owner or occupier for whose benefit riot is committed
+170,157,IPC,Harboring persons hired for an unlawful assembly
+171,158,IPC,Being hired to take part in an unlawful assembly or riot
+172,159,IPC,Affray
+173,160,IPC,Punishment for committing affray
+174,161,IPC,[To 165A. repealed by the Prevention of Corruption Act, 1988 (49 of 1988)]
+175,162,IPC,
+176,163,IPC,
+177,164,IPC,
+178,165,IPC,
+179,165A ,IPC,
+180,166,IPC,Public servant disobeying law, with intent to cause injury to any person
+181,166A ,IPC,
+182,166B ,IPC,
+183,167,IPC,Public servant framing an incorrect document with intent to cause injury
+184,168,IPC,Public servant unlawfully engaging in trade
+185,169,IPC,Public servant unlawfully buying or bidding for property
+186,170,IPC,Personating a public servant
+187,171,IPC,Wearing garb or carrying token used by public servant with fraudulent intent
+188,171A ,IPC,Candidate, Electoral right defined
+189,171B ,IPC,Bribery
+190,171C ,IPC,Undue influence at elections
+191,171D ,IPC,Personation at elections
+192,171E ,IPC,Punishment for bribery
+193,171F ,IPC,Punishment for undue influence or personation at an election
+194,171G ,IPC,False statement in connection with an election
+195,171H ,IPC,Illegal payments in connection with an election
+196,171I ,IPC,Failure to keep election accounts
+197,172,IPC,Absconding to avoid service of summons or other proceeding
+198,173,IPC,Preventing service of summons or other proceeding, or preventing publication thereof
+199,174,IPC,Non-attendance in obedience to an order from public servant
+200,174A ,IPC,
+201,175,IPC,Omission to produce document to public servant by person legally bound to produce it
+202,176,IPC,Omission to give notice or information to public servant by person legally bound to give it
+203,177,IPC,Furnishing false information
+204,178,IPC,Refusing oath or affirmation when duly required by public servant to make it
+205,179,IPC,Refusing to answer public servant authorized to question
+206,180,IPC,Refusing to sign statement
+207,181,IPC,False statement on oath or affirmation to public servant or person authorized to administer an oath or affirmation
+208,182,IPC,False information, with intent to cause public servant to use his lawful power to the injury of another person
+209,183,IPC,Resistance to the taking of property by the lawful authority of a public servant
+210,184,IPC,Obstructing sale of property offered for sale by authority of public servant
+211,185,IPC,Illegal purchase or bid for property offered for sale by authority of public servant
+212,186,IPC,Obstructing public servant in discharge of public functions
+213,187,IPC,Omission to assist public servant when bound by law to give assistance
+214,188,IPC,Disobedience to order duly promulgated by public servant
+215,189,IPC,Threat of injury to public servant
+216,190,IPC,Threat of injury to induce person to refrain from applying for protection to public servant
+217,191,IPC,Giving false evidence
+218,192,IPC,Fabricating false evidence
+219,193,IPC,Punishment for false evidence
+220,194,IPC,Giving or fabricating false evidence with intent to procure conviction of capital offence
+221,195,IPC,Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment
+222,195A ,IPC,
+223,196,IPC,Using evidence known to be false
+224,197,IPC,Issuing or signing false certificate
+225,198,IPC,Using as true a certificate known to be false
+226,199,IPC,False statement made in declaration which is by law receivable as evidence
+227,200,IPC,Using as true such declaration knowing it to be false
+228,201,IPC,Causing disappearance of evidence of offence, or giving false information to screen offender
+229,202,IPC,Intentional omission to give information of offence by person bound to inform
+230,203,IPC,Giving false information respecting an offence committed
+231,204,IPC,Destruction of document to prevent its production as evidence
+232,205,IPC,False personation for purpose of act or proceeding in suit or prosecution
+233,206,IPC,Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution
+234,207,IPC,Fraudulent claim to property to prevent its seizure as forfeited or in execution
+235,208,IPC,Fraudulently suffering decree for sum not due
+236,209,IPC,Dishonestly making false claim in Court
+237,210,IPC,Fraudulently obtaining decree for sum not due
+238,211,IPC,False charge of offence made with intent to injure
+239,212,IPC,Harboring offender
+240,213,IPC,Taking gift, etc., to screen an offender from punishment
+241,214,IPC,Offering gift or restoration of property in consideration of screening offender
+242,215,IPC,Taking gift to help to recover stolen property, etc
+243,216,IPC,Harboring offender who has escaped from custody or whose apprehension has been ordered
+244,216A ,IPC,Penalty for harboring robbers or dacoits
+245,216B ,IPC,[Definition of harbor in sections 212, 216 and 216A: Repealed by the Indian Penal Code (Amendment) Act, 1942 (8 of 1942)]
+246,217,IPC,Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture
+247,218,IPC,Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture
+248,219,IPC,Public servant in judicial proceeding corruptly making report, etc., contrary to law
+249,220,IPC,Commitment for trial or confinement by person having authority who knows that he is acting contrary to law
+250,221,IPC,Intentional omission to apprehend on the part of public servant bound to apprehend
+251,222,IPC,Intentional omission to apprehend on the part of public servant bound to apprehend person under sentence or lawfully committed
+252,223,IPC,Escape from confinement or custody negligently suffered by public servant
+253,224,IPC,Resistance or obstruction by a person to his lawful apprehension
+254,225,IPC,Resistance or obstruction to lawful apprehension of another person
+255,225A ,IPC,Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise, provided for
+256,225B ,IPC,Resistance or obstruction to lawful apprehension, or escape or rescue in cases not otherwise provided for
+257,226,IPC,[Unlawful return from transportation: Repealed by the Code of Criminal Procedure (Amendment) Act, 1995, w.e.f. 1st. January, 1956]
+258,227,IPC,Violation of condition of remission of punishment
+259,228,IPC,Intentional insult or interruption to public servant sitting in judicial proceeding
+260,228A ,IPC,Disclosure of identity of the victim of certain offences etc
+261,229,IPC,Personation of a juror or assessor
+262,229A ,IPC,
+263,230,IPC,Coin defined
+264,231,IPC,Counterfeiting coin
+265,232,IPC,Counterfeiting Indian coin
+266,233,IPC,Making or selling instrument for counterfeiting coin
+267,234,IPC,Making or selling instrument for counterfeiting Indian coin
+268,235,IPC,Possession of instrument, or material for the purpose of using the same for counterfeiting coin
+269,236,IPC,Abetting in India the counterfeiting out of India of coin
+270,237,IPC,Import or export of counterfeit coin
+271,238,IPC,Import or export of counterfeits of the India coin
+272,239,IPC,Delivery of coin, possessed with knowledge that it is counterfeit
+273,240,IPC,Delivery of Indian coin, possessed with knowledge that it is counterfeit
+274,241,IPC,Delivery of coin as genuine, which, when first possessed, the deliverer did not know to be counterfeit
+275,242,IPC,Possession of counterfeit coin by person who knew it to be counterfeit when he became possessed thereof-
+276,243,IPC,Possession of Indian coin by person who knew it to be counterfeit when he became possessed thereof
+277,244,IPC,Person employed in mint causing coin to be of different weight or composition from that fixed by law
+278,245,IPC,Unlawfully taking coining instrument from mint
+279,246,IPC,Fraudulently or dishonestly diminishing weight or altering composition of coin
+280,247,IPC,Fraudulently or dishonestly diminishing weight or altering composition of Indian coin
+281,248,IPC,Altering appearance of coin with intent that it shall pass as coin of different description
+282,249,IPC,Altering appearance of Indian coin with intent that it shall pass as coin of different description
+283,250,IPC,Delivery of coin, possessed with knowledge that it is altered
+284,251,IPC,Delivery of Indian coin, possessed with knowledge that it is altered
+285,252,IPC,Possession of coin by person who knew it to be altered when he became possessed thereof-
+286,253,IPC,Possession of Indian coin by person who knew it to be altered when he became possessed thereof-
+287,254,IPC,Delivery of coin as genuine, which, when first possessed, the deliverer did not know to be altered
+288,255,IPC,Counterfeiting Government stamp
+289,256,IPC,Having possession of instrument or material for counterfeiting Government stamp
+290,257,IPC,Making or selling instrument for counterfeiting Government stamp
+291,258,IPC,Sale of counterfeit Government stamp
+292,259,IPC,Having possession of counterfeit Government stamp
+293,260,IPC,Using as genuine a Government stamp known to be a counterfeit
+294,261,IPC,Effacing, writing from substance bearing Government stamp, or removing from document a stamp used for it, with intent to cause loss to Government
+295,262,IPC,Using Government stamp known to have been before used
+296,263,IPC,Erasure of mark denoting that stamp has been used
+297,263A ,IPC,Prohibition of fictitious stamps
+298,264,IPC,Fraudulent use of false instrument for weighing
+299,265,IPC,Fraudulent use of false weight or measure
+300,266,IPC,Being in possession of false weight or measure
+301,267,IPC,Making or selling false weight or measure
+302,268,IPC,Public nuisance Public nuisance
+303,269,IPC,Negligent act likely to spread infection of disease dangerous to life
+304,270,IPC,Malignant act likely to spread infection of disease dangerous to life
+305,271,IPC,Disobedience to quarantine rule
+306,272,IPC,Adulteration of food or drink intended for sale
+307,273,IPC,Sale of noxious food or drink
+308,274,IPC,Adulteration of drugs
+309,275,IPC,Sale of adulterated drugs
+310,276,IPC,Sale of drug as a different drug or preparation
+311,277,IPC,Fouling water of public spring or reservoir
+312,278,IPC,Making atmosphere noxious to health
+313,279,IPC,Rash driving or riding on a public way
+314,280,IPC,Rash navigation of vessel
+315,281,IPC,Exhibition of false light, mark or buoy
+316,282,IPC,Conveying person by water for hire in unsafe or overloaded vessel-
+317,283,IPC,Danger or obstruction in public way or line of navigation
+318,284,IPC,Negligent conduct with respect to poisonous substance
+319,285,IPC,Negligent conduct with respect to fire or combustible matter
+320,286,IPC,Negligent conduct with respect to explosive substance
+321,287,IPC,Negligent conduct with respect to machinery
+322,288,IPC,Negligent conduct with respect to pulling down or repairing buildings
+323,289,IPC,Negligent conduct with respect to animal
+324,290,IPC,Punishment for public nuisance in cases not otherwise provided for
+325,291,IPC,Continuance of nuisance after injunction to discontinue
+326,292,IPC,Sale, etc., of obscene books, etc. _
+327,292A,IPC,Printing, etc., of grossly indecent or scurrilous matter or matter intended for blackmail
+328,293,IPC,Sale, etc., of obscene objects to young person
+329,294,IPC,Obscene acts and songs
+330,294A ,IPC,Keeping lottery office
+331,295,IPC,Injuring or defiling place of worship with intent to insult the religion of any class
+332,295A ,IPC,Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs
+333,296,IPC,Disturbing religious assembly
+334,297,IPC,Trespassing on burial places, etc
+335,298,IPC,Uttering, words, etc., with deliberate intent to wound the religious feelings of any person-
+336,299,IPC,Culpable homicide
+337,300,IPC,Murder
+338,301,IPC,Culpable homicide by causing death of person other than person whose death was intended
+339,302,IPC,Punishment for murder
+340,303,IPC,Punishment for murder by life-convict
+341,304,IPC,Punishment for culpable homicide not amounting to murder
+342,304A ,IPC,Causing death by negligence
+343,304B ,IPC,Dowry death
+344,305,IPC,Abetment of suicide of child or insane person
+345,306,IPC,Abetment of suicide
+346,307,IPC,Attempt to murder
+347,308,IPC,Attempt to commit culpable homicide
+348,309,IPC,Attempt to commit suicide
+349,310,IPC,Thug
+350,311,IPC,Punishment
+351,312,IPC,Causing miscarriage
+352,313,IPC,Causing miscarriage without woman's consent
+353,314,IPC,Death caused by act done with intent to cause miscarriage
+354,315,IPC,Act done with intent to prevent child being born alive or to cause it to die after birth
+355,316,IPC,Causing death of quick unborn child by act amounting to culpable homicide
+356,317,IPC,Exposure and abandonment of child under twelve years, by parent or person having care of it
+357,318,IPC,Concealment of birth by secret disposal of dead body
+358,319,IPC,Hurt
+359,320,IPC,Grievous hurt
+360,321,IPC,Voluntarily causing hurt
+361,322,IPC,Voluntarily causing grievous hurt
+362,323,IPC,Punishment for voluntarily causing hurt
+363,324,IPC,Voluntarily causing hurt by dangerous weapons or means
+364,325,IPC,Punishment for voluntarily causing grievous hurt
+365,326,IPC,Voluntarily causing grievous hurt by dangerous weapons or means -
+366,326A ,IPC,
+367,326B ,IPC,
+368,327,IPC,Voluntarily causing hurt to extort property, or to constrain to an illegal act
+369,328,IPC,Causing hurt by means of poison, etc. with intent to commit an offence
+370,329,IPC,Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act  
+371,330,IPC,Voluntarily causing hurt to extort confession, or to compel restoration of property
+372,331,IPC,Voluntarily causing grievous hurt to extort confession, or to compel restoration of property
+373,332,IPC,Voluntarily causing hurt to deter public servant from his duty
+374,333,IPC,Voluntarily causing grievous hurt to deter public servant from his duty
+375,334,IPC,Voluntarily causing hurt on provocation
+376,335,IPC,Voluntarily causing grievous hurt on provocation
+377,336,IPC,Act endangering life or personal safety of others
+378,337,IPC,Causing hurt by act endangering life or personal safety of others
+379,338,IPC,Causing grievous hurt by act endangering life or personal safety of others
+380,339,IPC,Wrongful restraint
+381,340,IPC,Wrongful confinement
+382,341,IPC,Punishment for wrongful restraint
+383,342,IPC,Punishment for wrongful confinement
+384,343,IPC,Wrongful confinement for three or more days
+385,344,IPC,Wrongful confinement for ten or more days
+386,345,IPC,Wrongful confinement of person for whose liberation writ has been issued
+387,346,IPC,Wrongful confinement in secret
+388,347,IPC,Wrongful confinement to extort property, or constrain to illegal act
+389,348,IPC,Wrongful confinement to extort confession, or compel restoration of property
+390,349,IPC,Force
+391,350,IPC,Criminal force
+392,351,IPC,Assault
+393,352,IPC,Punishment for assault or criminal force otherwise than on grave provocation
+394,353,IPC,Assault or criminal force to deter public servant from discharge of his duty
+395,354,IPC,Assault or criminal force to woman with intent to outrage her modesty.
+396,354A ,IPC,
+397,354B ,IPC,
+398,354C ,IPC,
+399,354D ,IPC,
+400,355,IPC,Assault or criminal force with intent to dishonor person, otherwise than on grave provocation
+401,356,IPC,Assault or criminal force in attempt to commit theft of property carried by a person
+402,357,IPC,Assault or criminal force in attempt wrongfully to confine a person
+403,358,IPC,Assault or criminal force on grave provocation
+404,359,IPC,Kidnapping
+405,360,IPC,Kidnapping from India
+406,361,IPC,Kidnapping from lawful guardianship
+407,362,IPC,Abduction
+408,363,IPC,Punishment for kidnapping
+409,363A ,IPC,Kidnapping or maiming a minor for purposes of begging
+410,364,IPC,Kidnapping or abducting in order to murder
+411,364A ,IPC,Kidnapping for ransom, etc
+412,365,IPC,Kidnapping or abducting with intent secretly and wrongfully to confine person
+413,366,IPC,Kidnapping, abducting or inducing woman to compel her marriage,  etc
+414,366A ,IPC,Procuration of minor girl
+415,366B ,IPC,Importation of girl from foreign country
+416,367,IPC,Kidnapping or abducting in order to subject person to grievous hurt, slavery, etc
+417,368,IPC,Wrongfully concealing or keeping in confinement, kidnapped or abducted person
+418,369,IPC,Kidnapping or abducting child under ten years with intent to steal from its person
+419,370,IPC,Buying or disposing of any person as a slave
+420,370A ,IPC,Habitual dealing in slaves
+421,371,IPC,Selling minor for purposes of prostitution, etc
+422,372,IPC,Buying minor for purposes of prostitution, etc
+423,373,IPC,Unlawful compulsory labor
+424,374,IPC,Rape
+425,375,IPC,Punishment for rape
+426,376,IPC,Intercourse by a man with his wife during separation
+427,376A ,IPC,Intercourse by public servant with woman in his custody
+428,376AB ,IPC,Intercourse by superintendent of jail, remand home, etc
+429,376B ,IPC,Intercourse by any member of the management or staff of a hospital with any woman in that hospital
+430,376C ,IPC,Unnatural offences
+431,376D ,IPC,
+432,376DA ,IPC,
+433,376DB ,IPC,
+434,376E ,IPC,
+435,377,IPC,
+436,378,IPC,Theft
+437,379,IPC,Punishment for theft
+438,380,IPC,Theft in dwelling house, etc
+439,381,IPC,Theft by clerk or servant of property in possession of master
+440,382,IPC,Theft after preparation made for causing death, hurt or restraint in order to the committing of the theft
+441,383,IPC,Extortion
+442,384,IPC,Punishment for extortion
+443,385,IPC,Putting person in fear of injury in order to commit extortion
+444,386,IPC,Extortion by putting a person in fear of death or grievous hurt to
+445,387,IPC,Putting person in fear of death or of grievous hurt, in order to commit extortion
+446,388,IPC,Extortion by threat of accusation of an offence punishable with death or imprisonment for life, etc
+447,389,IPC,Putting person in fear of accusation of offence, in order to commit extortion
+448,390,IPC,Robbery
+449,391,IPC,Dacoity
+450,392,IPC,Punishment for robbery
+451,393,IPC,Attempt to commit robbery
+452,394,IPC,Voluntarily causing hurt in committing robbery
+453,395,IPC,Punishment for dacoity
+454,396,IPC,Dacoity with murder
+455,397,IPC,Robbery, or dacoity, with attempt to cause death or grievous hurt
+456,398,IPC,Attempt to commit robbery or dacoity when armed with deadly weapon
+457,399,IPC,Making preparation to commit dacoity
+458,400,IPC,Punishment for belonging to gang of dacoits
+459,401,IPC,Punishment for belonging to gang of thieves
+460,402,IPC,Assembling for purpose of committing dacoity
+461,403,IPC,Dishonest misappropriation of property
+462,404,IPC,Dishonest misappropriation of property possessed by deceased person at the time of his death
+463,405,IPC,Criminal breach of trust
+464,406,IPC,Punishment for criminal breach of trust
+465,407,IPC,Criminal breach of trust by carrier, etc
+466,408,IPC,Criminal breach of trust by clerk or servant
+467,409,IPC,Criminal breach of trust by public servant, or by banker, merchant or agent
+468,410,IPC,Stolen Property
+469,411,IPC,Dishonestly receiving stolen property
+470,412,IPC,Dishonestly receiving property stolen in the commission of a dacoity
+471,413,IPC,Habitually dealing in stolen property
+472,414,IPC,Assisting in concealment of stolen property
+473,415,IPC,Cheating
+474,416,IPC,Cheating by personation
+475,417,IPC,Punishment for cheating
+476,418,IPC,Cheating with knowledge that wrongful loss may ensue to person whose interest offender is bound to protect
+477,419,IPC,Punishment for cheating by personation
+478,420,IPC,Cheating and dishonestly inducing delivery of property
+479,421,IPC,Dishonest or fraudulent removal or concealment of property to prevent distribution among creditors
+480,422,IPC,Dishonestly or fraudulently preventing debt being available for creditors-.
+481,423,IPC,Dishonest or fraudulent execution of deed of transfer containing false statement of consideration
+482,424,IPC,Dishonest or fraudulent removal or concealment of property
+483,425,IPC,Mischief
+484,426,IPC,Punishment for mischief-
+485,427,IPC,Mischief causing damage to the amount of fifty rupees
+486,428,IPC,Mischief by killing or maiming animal of the value of ten rupees.
+487,429,IPC,Mischief by killing or maiming cattle, etc., of any value or any animal of the value of fifty rupees
+488,430,IPC,Mischief by injury to works of irrigation or by wrongfully diverting water
+489,431,IPC,Mischief by injury to public road, bridge, river or channel
+490,432,IPC,Mischief by causing inundation or obstruction to public drainage attended with damage
+491,433,IPC,Mischief by destroying, moving or rendering less useful a light-house or sea-mark
+492,434,IPC,Mischief by destroying or moving, etc., a land-mark fixed by public authority
+493,435,IPC,Mischief by fire or explosive substance with intent to cause damage to amount of one hundred or (in case of agricultural produce) ten rupees
+494,436,IPC,Mischief by fire or explosive substance with intent to destroy house, etc
+495,437,IPC,Mischief with intent to destroy or make unsafe a decked vessel or one of twenty tons burden
+496,438,IPC,Punishment for the mischief described in section 437 committed by fire or explosive substance
+497,439,IPC,Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc
+498,440,IPC,Mischief committed after preparation made for causing death or hurt
+499,441,IPC,Criminal trespass
+500,442,IPC,House trespass
+501,443,IPC,Lurking house-trespass
+502,444,IPC,Lurking house-trespass by night
+503,445,IPC,House breaking
+504,446,IPC,House-breaking by night
+505,447,IPC,Punishment for criminal trespass
+506,448,IPC,Punishment for house-trespass
+507,449,IPC,House-trespass in order to commit offence punishable with death
+508,450,IPC,House-trespass in order to commit offence punishable with imprisonment for life
+509,451,IPC,House-trespass in order to commit offence punishable with imprisonment
+510,452,IPC,House-trespass after preparation for hurt, assault or wrongful restraint
+511,453,IPC,Punishment for lurking house-trespass or house-breaking
+512,454,IPC,Lurking house-trespass or house-breaking in order to commit offence punishable with imprisonment
+513,455,IPC,Lurking house-trespass or house-breaking after preparation for hurt, assault or wrongful restraint
+514,456,IPC,Punishment for lurking house-trespass or house-breaking by night
+515,457,IPC,Lurking house-trespass or house-breaking by night in order to commit offence punishable with imprisonment
+516,458,IPC,Lurking house-trespass or house-breaking by night after preparation for hurt, assault, or wrongful restraint
+517,459,IPC,Grievous hurt caused whilst committing lurking house trespass or housebreaking
+518,460,IPC,All persons jointly concerned in lurking house-trespass or house-breaking by night punishable where death or grievous hurt caused by one of them
+519,461,IPC,Dishonestly breaking open receptacle containing property
+520,462,IPC,Punishment for same offence when committed by person entrusted with custody
+521,463,IPC,Forgery
+522,464,IPC,Making a false document
+523,465,IPC,Punishment for forgery
+524,466,IPC,Forgery of record of court or of public register, etc
+525,467,IPC,Forgery of valuable security, will, etc
+526,468,IPC,Forgery for purpose of cheating
+527,469,IPC,Forgery for purpose of harming reputation
+528,470,IPC,Forged document
+529,471,IPC,Using as genuine a forged document
+530,472,IPC,Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 467
+531,473,IPC,Making or possessing counterfeit seal, etc., with intent to commit forgery punishable otherwise
+532,474,IPC,Having possession of document described in section 466 or 467, knowing it to be forged and intending to use it as genuine
+533,475,IPC,Counterfeiting device or mark used for authenticating documents described in section 467, or possessing counterfeit marked material
+534,476,IPC,Counterfeiting device or mark used for authenticating documents other than those described in section 467, or possessing counterfeit marked material
+535,477,IPC,Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security
+536,477A ,IPC,Falsification of accounts
+537,478,IPC,[Trade marks Repealed by the Trade and Merchandise Marks Act, 1958, w.e.f. 25th. November, 1959] 
+538,479,IPC,Property mark
+539,480,IPC,Using a false trade mark: Repealed by the Trade and Merchandise Marks Act, 1958, w.e.f. 25th. November, 1959
+540,481,IPC,Using a false property mark
+541,482,IPC,Punishment for using a false property mark
+542,483,IPC,Counterfeiting a property mark used by another
+543,484,IPC,Counterfeiting a mark used by a public servant
+544,485,IPC,Making or possession of any instrument for counterfeiting a property mark
+545,486,IPC,Selling goods marked with a counterfeit property mark
+546,487,IPC,Making a false mark upon any receptacle containing goods
+547,488,IPC,Punishment for making use of any such false mark
+548,489,IPC,Tampering with property mark with intent to cause injury
+549,489A ,IPC,Counterfeiting currency-notes or bank-notes
+550,489B ,IPC,Using as genuine, forged or counterfeit currency-notes or bank- notes
+551,489C ,IPC,Possession of forged or counterfeit currency-notes or bank-notes
+552,489D ,IPC,Making or possessing instruments or materials for forging or counterfeiting currency-notes or bank-notes
+553,489E ,IPC,Making or using documents resembling currency-notes or bank-notes
+554,490,IPC,[Breach of contract of service during voyage or journey: Repealed by the Workmen's Breach of Contract (Repealing) Act, 1925]
+555,491,IPC,Breach of contract to attend on and supply wants of helpless person
+556,492,IPC,[Breach of contract to serve at distant place to which servant is conveyed at master's expense: Repealed by the Workmen's Breach of Contract (Repealing) Act, 1925 (3 of 1925)]
+557,493,IPC,Cohabitation caused by a man deceitfully inducing a belief of lawful marriage
+558,494,IPC,Marrying again during lifetime of husband or wife
+559,495,IPC,Same offence with concealment of former marriage from person with whom subsequent marriage is contracted
+560,496,IPC,Marriage ceremony fraudulently gone through without lawful marriage
+561,497,IPC,Adultery
+562,498,IPC,Enticing or taking away or detaining with criminal intent a married woman
+563,498A ,IPC,Husband or relative of husband of a woman subjecting her to cruelty
+564,499,IPC,Defamation
+565,500,IPC,Punishment for defamation
+566,501,IPC,Printing or engraving matter known to be defamatory
+567,502,IPC,Sale of printed or engraved substance containing defamatory matter
+568,503,IPC,Criminal intimidation
+569,504,IPC,Intentional insult with intent to provoke breach of the peace
+570,505,IPC,Statements conducting to public mischief.
+571,506,IPC,Punishment for criminal intimidation
+572,507,IPC,Criminal intimidation by an anonymous communication
+573,508,IPC,Act caused by inducing person to believe that he will be rendered an object of the Divine displeasure
+574,509,IPC,Word, gesture or act intended to insult the modesty of a woman
+575,510,IPC,Misconduct in public by a drunken person
+576,511,IPC,Punishment for attempting to commit offences punishable with imprisonment for life or other imprisonment Foot Notes
+577,1,CrPC,Short title, extent and commencement
+578,2,CrPC,Definitions
+579,3,CrPC,Construction of references
+580,4,CrPC,Trial of offences under the Indian Penal Code and other laws
+581,5,CrPC,Saving
+582,6,CrPC,Classes of Criminal Courts
+583,7,CrPC,Territorial divisions
+584,8,CrPC,Metropolitan areas
+585,9,CrPC,Court of Session
+586,10,CrPC,Subordination of Assistant Sessions Judges
+587,11,CrPC,Courts of Judicial Magistrates
+588,12,CrPC,Chief Judicial Magistrate and Additional Chief Judicial Magistrate, etc.
+589,13,CrPC,Special Judicial Magistrates
+590,14,CrPC,Local Jurisdiction of Judicial Magistrates
+591,15,CrPC,Subordination of Judicial Magistrates
+592,16,CrPC,Courts of Metropolitan Magistrates
+593,17,CrPC,Chief Metropolitan Magistrate and Additional Chief Metropolitan Magistrate
+594,18,CrPC,Special Metropolitan Magistrates
+595,19,CrPC,Subordination of Metropolitan Magistrates
+596,20,CrPC,Executive Magistrates
+597,21,CrPC,Special Executive Magistrates
+598,22,CrPC,Local Jurisdiction of Executive Magistrates
+599,23,CrPC,Subordination of Executive Magistrates
+600,24,CrPC,Public Prosecutors
+601,25,CrPC,Assistant Public Prosecutors
+602,25A ,CrPC,Directorate of Prosecution
+603,26,CrPC,Courts by which offences are triable
+604,27,CrPC,Jurisdiction in the case of juveniles
+605,28,CrPC,Sentences which High Courts and Sessions Judges may pass
+606,29,CrPC,Sentences which Magistrates may pass
+607,30,CrPC,Sentence of imprisonment in default of fine
+608,31,CrPC,Sentence in cases of conviction of several offences at one trial
+609,32,CrPC,Mode of conferring powers
+610,33,CrPC,Powers of officers appointed
+611,34,CrPC,Withdrawal of powers
+612,35,CrPC,Powers of Judges and Magistrates exercisable by their successors-in-office
+613,36,CrPC,Powers of superior officers of police
+614,37,CrPC,Public when to assist Magistrates and police
+615,38,CrPC,Aid to person other than police officer, executing warrant
+616,39,CrPC,Public to give information of certain offences
+617,40,CrPC,Duty of officers employed in connection with the affairs of a village to make certain report
+618,41,CrPC,When police may arrest without warrant
+619,42,CrPC,Arrest on refusal to give name and residence
+620,43,CrPC,Arrest by private person and procedure on such arrest
+621,44,CrPC,Arrest by Magistrate
+622,45,CrPC,Protection of members of the Armed Forces from arrest
+623,46,CrPC,Arrest how made
+624,47,CrPC,Search of place entered by person sought to be arrested
+625,48,CrPC,Pursuit of offenders into other jurisdictions
+626,49,CrPC,No unnecessary restraint
+627,50,CrPC,Person arrested to be informed of grounds of arrest and of right to bail
+628,50A ,CrPC,Obligation of person making arrest to inform about the arrest etc., to a nominated person
+629,51,CrPC,Search of arrested persons
+630,52,CrPC,Power to seize offensive weapons
+631,53,CrPC,Examination of accused by medical practitioner at the request of police officer
+632,53A ,CrPC,Examination of person accused of rape by medical practitioner
+633,54,CrPC,Examination of arrested person by medical practitioner at the request of the arrested person
+634,54A ,CrPC,Identification of person arrested
+635,55,CrPC,Procedure when police officer deputes subordinate to arrest without warrant
+636,56,CrPC,Person arrested to be taken before Magistrate or officer in charge of police station
+637,57,CrPC,Person arrested not to be detained more than twenty-four hours
+638,58,CrPC,Police to report apprehensions
+639,59,CrPC,Discharge of person apprehended
+640,60,CrPC,Powers, on escape, to pursue and re-take
+641,61,CrPC,Form of summons
+642,62,CrPC,Summons how served
+643,63,CrPC,Service of summons on corporate bodies and societies
+644,64,CrPC,Service when persons summoned cannot be found
+645,65,CrPC,Procedure when service cannot be effected as before provided
+646,66,CrPC,Service on Government servant
+647,67,CrPC,Service of summons outside local limits
+648,68,CrPC,Proof of service in such cases and when serving officer not present
+649,69,CrPC,Service of summons on witness by post
+650,70,CrPC,Form of warrant of arrest and duration
+651,71,CrPC,Power to direct security to be taken
+652,72,CrPC,Warrants to whom directed
+653,73,CrPC,Warrant may be directed to any person
+654,74,CrPC,Warrant directed to police officer
+655,75,CrPC,Notification of substance of warrant
+656,76,CrPC,Person arrested to be brought before Court without delay
+657,77,CrPC,Where warrant may be executed
+658,78,CrPC,Warrant forwarded for execution outside jurisdiction
+659,79,CrPC,Warrant directed to police officer for execution outside jurisdiction
+660,80,CrPC,Procedure of arrest of person against whom warrant issued
+661,81,CrPC,Procedure by Magistrate before whom such person arrested is brought
+662,82,CrPC,Proclamation for person absconding
+663,83,CrPC,Attachment of property of person absconding
+664,84,CrPC,Claims and objections to attachment
+665,85,CrPC,Release, sale and restoration of attached property
+666,86,CrPC,Appeal from order rejecting application for restoration of attached property
+667,87,CrPC,Issue of warrant in lieu of, or in addition to, summons
+668,88,CrPC,Power to take bond for appearance
+669,89,CrPC,Arrest on breach of bond for appearance
+670,90,CrPC,Provisions of this Chapter generally applicable to summons and warrants of arrest
+671,91,CrPC,Summons to produce document or other thing
+672,92,CrPC,Procedure as to letters and telegrams
+673,93,CrPC,When search-warrant may be issued
+674,94,CrPC,Search of place suspected to contain stolen property, forged documents, etc.
+675,95,CrPC,Power to declare certain publications forfeited and to issue search-warrants for the same
+676,96,CrPC,Application to High Court to set aside declaration of forfeiture
+677,97,CrPC,Search for persons wrongfully confined
+678,98,CrPC,Power to compel restoration of abducted females
+679,99,CrPC,Direction, etc., of search-warrants
+680,100,CrPC,Persons in charge of closed place to allow search
+681,101,CrPC,Disposal of things found in search beyond jurisdiction
+682,102,CrPC,Power of police officer to seize certain property
+683,103,CrPC,Magistrate may direct search in his presence
+684,104,CrPC,Power to impound document, etc., produced
+685,105,CrPC,Reciprocal arrangements regarding processes
+686,105A ,CrPC,Definitions
+687,105B ,CrPC,Assistance in securing transfer of persons
+688,105C ,CrPC,Assistance in relation to orders of attachment or forfeiture of property
+689,105D ,CrPC,Identifying unlawfully acquired property
+690,105E ,CrPC,Seizure or attachment of property
+691,105F ,CrPC,Management of properties seized or forfeited under this Chapter
+692,105G ,CrPC,Notice of forfeiture of property
+693,105H ,CrPC,Forfeiture of property in certain cases
+694,105I ,CrPC,Fine in lieu of forfeiture
+695,105J ,CrPC,Certain transfers to be null and void
+696,105K ,CrPC,Procedure in respect of letter of request
+697,105L ,CrPC,Application of this Chapter
+698,106,CrPC,Security for keeping the peace on conviction
+699,107,CrPC,Security for keeping the peace in other cases
+700,108,CrPC,Security for good behaviour from persons disseminating seditious matters
+701,109,CrPC,Security for good behaviour from suspected persons
+702,110,CrPC,Security for good behaviour from habitual offenders
+703,111,CrPC,Order to be made
+704,112,CrPC,Procedure in respect of person present in Court
+705,113,CrPC,Summons or warrant in case of person not so present
+706,114,CrPC,Copy of order to accompany summons or warrant
+707,115,CrPC,Power to dispense with personal attendance
+708,116,CrPC,Inquiry as to truth of information
+709,117,CrPC,Order to give security
+710,118,CrPC,Discharge of person informed against
+711,119,CrPC,Commencement of period for which security is required
+712,120,CrPC,Contents of bond
+713,121,CrPC,Power to reject sureties
+714,122,CrPC,Imprisonment in default of security
+715,123,CrPC,Power to release persons imprisoned for failing to give security
+716,124,CrPC,Security for unexpired period of bond
+717,125,CrPC,Order for maintenance of wives, children and parents
+718,126,CrPC,Procedure
+719,127,CrPC,Alteration in allowance
+720,128,CrPC,Enforcement of order of maintenance
+721,129,CrPC,Dispersal of assembly by use of civil force
+722,130,CrPC,Use of armed forces to disperse assembly
+723,131,CrPC,Power of certain armed force officers to disperse assembly
+724,132,CrPC,Protection against prosecution for acts done under preceding sections
+725,133,CrPC,Conditional order for removal of nuisance
+726,134,CrPC,Service or notification of order
+727,135,CrPC,Person to whom order is addressed to obey or show cause
+728,136,CrPC,Consequences of his failing to do so
+729,137,CrPC,Procedure where existence of public right is denied
+730,138,CrPC,Procedure where he appears to show cause
+731,139,CrPC,Power of Magistrate to direct local investigation and examination of an expert
+732,140,CrPC,Power of Magistrate to furnish written instructions, etc.
+733,141,CrPC,Procedure on order being made absolute and consequences of disobedience
+734,142,CrPC,Injunction pending inquiry
+735,143,CrPC,Magistrate may prohibit repetition or continuance of public nuisance
+736,144,CrPC,Power to issue order in urgent cases of nuisance or apprehended danger
+737,144A ,CrPC,Power to prohibit carrying arms in procession or mass drill or mass training with arms
+738,145,CrPC,Procedure where dispute concerning land or water is likely to cause breach of peace
+739,146,CrPC,Power to attach subject of dispute and to appoint receiver
+740,147,CrPC,Dispute concerning right of use of land or water
+741,148,CrPC,Local inquiry
+742,149,CrPC,Police to prevent cognizable offences
+743,150,CrPC,Information of design to commit cognizable offences
+744,151,CrPC,Arrest to prevent the commission of cognizable offences
+745,152,CrPC,Prevention of injury to public property
+746,153,CrPC,Inspection of weights and measures
+747,154,CrPC,Information in cognizable cases
+748,155,CrPC,Information as to non-cognizable cases and investigation of such cases
+749,156,CrPC,Police officer's power to investigate cognizable cases
+750,157,CrPC,Procedure for investigation
+751,158,CrPC,Report how submitted
+752,159,CrPC,Power to hold investigation or preliminary inquiry
+753,160,CrPC,Police Officer's power to require attendance of witnesses []
+754,161,CrPC,Examination of witnesses by police
+755,162,CrPC,Statements to police not to be signed; Use of statements in evidence
+756,163,CrPC,No inducement to be offered
+757,164,CrPC,Recording of confessions and statements
+758,164A ,CrPC,Medical examination of the victim of rape
+759,165,CrPC,Search by police officer
+760,166,CrPC,When officer in charge of police station may require another to issue search-warrant
+761,166A ,CrPC,Letter of request to competent authority for investigation in a country or place outside India
+762,166B ,CrPC,Letter of request from a country or place outside India to a Court or an authority for investigation in India
+763,167,CrPC,Procedure when investigation cannot be completed in twenty-four hours
+764,168,CrPC,Report of investigation by subordinate police officer
+765,169,CrPC,Release of accused when evidence deficient
+766,170,CrPC,Cases to be sent to Magistrate when evidence is sufficient
+767,171,CrPC,Complainant and witnesses not to be required to accompany police officer and not to be subject to restraint
+768,172,CrPC,Diary of proceeding in investigation
+769,173,CrPC,Report of police officer on completion of investigation
+770,174,CrPC,Police to inquire and report on suicide, etc.
+771,175,CrPC,Power to summon persons
+772,176,CrPC,Inquiry by Magistrate into cause of death
+773,177,CrPC,Ordinary place of inquiry and trial
+774,178,CrPC,Place of inquiry or trial
+775,179,CrPC,Offence triable where act is done or consequence ensues
+776,180,CrPC,Place of trial where act is offence by reason of relation to other offence
+777,181,CrPC,Place of trial in case of certain offences
+778,182,CrPC,Offences committed by letters, etc
+779,183,CrPC,Offence committed on journey or voyage
+780,184,CrPC,Place of trial for offences triable together
+781,185,CrPC,Power to order cases to be tried in different sessions divisions
+782,186,CrPC,High Court to decide, in case of doubt, district where inquiry or trial shall take place
+783,187,CrPC,Power to issue summons or warrant for offence committed beyond local jurisdiction
+784,188,CrPC,Offence committed outside India
+785,189,CrPC,Receipt of evidence relating to offences committed outside India
+786,190,CrPC,Cognizance of offences by Magistrates
+787,191,CrPC,Transfer on application of the accused
+788,192,CrPC,Making over of cases to Magistrates
+789,193,CrPC,Cognizance of offences by Courts of Session
+790,194,CrPC,Additional and Assistant Sessions Judges to try cases made over to them
+791,195,CrPC,Prosecution for contempt of lawful authority of public servants, for offences against public justice and for offences relating to documents given in evidence
+792,196,CrPC,Prosecution for offences against the State and for criminal conspiracy to commit such offence
+793,197,CrPC,Prosecution of Judges and public servants
+794,198,CrPC,Prosecution for offences against marriage
+795,198A ,CrPC,Prosecution of offences under section A of the Indian Penal Code
+796,198B ,CrPC,Prosecution for defamation
+797,199,CrPC,Examination of complainant
+798,200,CrPC,Procedure by Magistrate not competent to take cognizance of the case
+799,201,CrPC,Postponement of issue of process
+800,202,CrPC,Dismissal of complaint
+801,203,CrPC,Issue of process
+802,204,CrPC,Magistrate may dispense with personal attendance of accused
+803,205,CrPC,Special summons in cases of petty offence
+804,206,CrPC,Supply to the accused of copy of police report and other documents
+805,207,CrPC,Supply of copies of statements and documents to accused in other cases triable by Court of Session
+806,208,CrPC,Commitment of case to Court of Session when offence is triable exclusively by it
+807,209,CrPC,Procedure to be followed when there is a complaint case and police investigation in respect of the same offence
+808,210,CrPC,Contents of charge
+809,211,CrPC,Particulars as to time, place and person
+810,212,CrPC,When manner of committing offence must be stated
+811,213,CrPC,Words in charge taken in sense of law under which offence is punishable
+812,214,CrPC,Effect of errors
+813,215,CrPC,Court may alter charge
+814,216,CrPC,Recall of witnesses when charge altered
+815,217,CrPC,Separate charges for distinct offences
+816,218,CrPC,Three offences of same kind within year may be charged together
+817,219,CrPC,Trial for more than one offence
+818,220,CrPC,Where it is doubtful what offence has been committed
+819,221,CrPC,When offence proved included in offence charged
+820,222,CrPC,What persons may be charged jointly
+821,223,CrPC,Withdrawal of remaining charges on conviction on one of several charges
+822,224,CrPC,Trial to be conducted by Public Prosecutor
+823,225,CrPC,Opening case for prosecution
+824,226,CrPC,Discharge
+825,227,CrPC,Framing of charge
+826,228,CrPC,Conviction on plea of guilty
+827,229,CrPC,Date for prosecution evidence
+828,230,CrPC,Evidence for prosecution
+829,231,CrPC,Acquittal
+830,232,CrPC,Entering upon defence
+831,233,CrPC,Arguments
+832,234,CrPC,Judgment of acquittal or conviction
+833,235,CrPC,Previous conviction
+834,236,CrPC,Procedure in cases instituted under section ()
+835,237,CrPC,Compliance with section 
+836,238,CrPC,When accused shall be discharged
+837,239,CrPC,Framing of charge
+838,240,CrPC,Conviction on plea of guilty
+839,241,CrPC,Evidence for prosecution
+840,242,CrPC,Evidence for defence
+841,243,CrPC,Evidence for prosecution
+842,244,CrPC,When accused shall be discharged
+843,245,CrPC,Procedure where accused is not discharged
+844,246,CrPC,Evidence for defence
+845,247,CrPC,Acquittal or conviction
+846,248,CrPC,Absence of complainant
+847,249,CrPC,Compensation for accusation without reasonable cause
+848,250,CrPC,Substance of accusation to be stated
+849,251,CrPC,Conviction on plea of guilty
+850,252,CrPC,Conviction on plea of guilty in absence of accused in petty cases
+851,253,CrPC,Procedure when not convicted
+852,254,CrPC,Acquittal or conviction
+853,255,CrPC,Non-appearance or death of complainant
+854,256,CrPC,Withdrawal of complaint
+855,257,CrPC,Power to stop proceedings in certain cases
+856,258,CrPC,Power of Court to convert summons-cases into warrant cases
+857,259,CrPC,Power to try summarily
+858,260,CrPC,Summary trial by Magistrate of the second class
+859,261,CrPC,Procedure for summary trials
+860,262,CrPC,Record in summary trials
+861,263,CrPC,Judgment in cases tried summarily
+862,264,CrPC,Language of record and judgment
+863,265,CrPC,Application of the Chapter
+864,265A ,CrPC,Application for plea bargaining
+865,265B ,CrPC,Guidelines for mutually satisfactory disposition
+866,265C ,CrPC,Report of the mutually satisfactory disposition to be submitted before the Court
+867,265D ,CrPC,Disposal of the case
+868,265E ,CrPC,Judgment of the Court
+869,265F ,CrPC,Finality of the judgment
+870,265G ,CrPC,Power of the Court in plea bargaining
+871,265H ,CrPC,Period of detention undergone by the accused to be set off against the sentence of imprisonment
+872,265I ,CrPC,Savings
+873,265J ,CrPC,Statements of accused not to be used
+874,265K ,CrPC,Non-application of the Chapter
+875,265L ,CrPC,Definitions
+876,266,CrPC,Power to require attendance of prisoners
+877,267,CrPC,Power of State Government to exclude certain persons from operation of section 
+878,268,CrPC,Officer in charge of prison to abstain from carrying out order in certain contingencies
+879,269,CrPC,Prisoner to be brought to Court in custody
+880,270,CrPC,Power to issue commission for examination of witness in prison
+881,271,CrPC,Language of Courts
+882,272,CrPC,Evidence to be taken in presence of accused
+883,273,CrPC,Record in summons-cases and inquiries
+884,274,CrPC,Record in warrant-cases
+885,275,CrPC,Record in trial before Court of Session
+886,276,CrPC,Language of record of evidence
+887,277,CrPC,Procedure in regard to such evidence when completed
+888,278,CrPC,Interpretation of evidence to accused or his pleader
+889,279,CrPC,Remarks respecting demeanour of witness
+890,280,CrPC,Record of examination of accused
+891,281,CrPC,Interpreter to be bound to interpret truthfully
+892,282,CrPC,Record in High Court
+893,283,CrPC,When attendance of witness may be dispensed with and commission issued
+894,284,CrPC,Commission to whom to be issued
+895,285,CrPC,Execution of commissions
+896,286,CrPC,Parties may examine witnesses
+897,287,CrPC,Return of commission
+898,288,CrPC,Adjournment of proceeding
+899,289,CrPC,Execution of foreign commissions
+900,290,CrPC,Deposition of medical witness
+901,291,CrPC,Identification report of Magistrate
+902,291A ,CrPC,Evidence of officers of the Mint
+903,292,CrPC,Reports of certain Government scientific experts
+904,293,CrPC,No formal proof of certain documents
+905,294,CrPC,Affidavit in proof of conduct of public servants
+906,295,CrPC,Evidence of formal character on affidavit
+907,296,CrPC,Authorities before whom affidavits may be sworn
+908,297,CrPC,Previous conviction of acquittal how proved
+909,298,CrPC,Record of evidence in absence of accused
+910,299,CrPC,Person once convicted or acquitted not to be tried for same offence
+911,300,CrPC,Appearance by public prosecutors
+912,301,CrPC,Permission to conduct prosecution
+913,302,CrPC,Right of person against whom proceedings are instituted to be defended
+914,303,CrPC,Legal aid to accused at State expense in certain cases
+915,304,CrPC,Procedure when corporation or registered society is an accused
+916,305,CrPC,Tender of pardon to accomplice
+917,306,CrPC,Power to direct tender of pardon
+918,307,CrPC,Trial of person not complying with conditions of pardon
+919,308,CrPC,Power to postpone or adjourn proceedings
+920,309,CrPC,Local inspection
+921,310,CrPC,Power to summon material witness, or examine person present
+922,311,CrPC,Power of Magistrate to order person to give specimen signature or handwriting
+923,311A ,CrPC,Expenses of Complaints and Witnesses
+924,312,CrPC,Power to examine the accused
+925,313,CrPC,Oral arguments and memorandum of arguments
+926,314,CrPC,Accused person to be competent witness
+927,315,CrPC,No influence to be used to induce disclosure
+928,316,CrPC,Provision for inquiries and trial being held in the absence of accused in certain cases
+929,317,CrPC,Procedure where accused does not understand proceedings
+930,318,CrPC,Power to proceed against other persons appearing to be guilty of offence
+931,319,CrPC,Compounding of offences
+932,320,CrPC,Withdrawal from prosecution
+933,321,CrPC,Procedure in cases which Magistrate cannot dispose of
+934,322,CrPC,Procedure when, after commencement of inquiry or trial, Magistrate finds case should be committed
+935,323,CrPC,Trial of persons previously convicted of offences against coinage, stamp law or property
+936,324,CrPC,Procedure when Magistrate can not pass sentence sufficiently severe
+937,325,CrPC,Conviction or commitment on evidence partly recorded by one Magistrate and partly by another
+938,326,CrPC,Court to be open
+939,327,CrPC,Procedure in case of accused being lunatic
+940,328,CrPC,Procedure in case of person of unsound mind tried before Court
+941,329,CrPC,Release of lunatic pending investigation or trial
+942,330,CrPC,Resumption of inquiry or trial
+943,331,CrPC,Procedure on accused appearing before Magistrate or Court
+944,332,CrPC,When accused appears to have been of sound mind
+945,333,CrPC,Judgment of acquittal on ground of unsoundness of mind
+946,334,CrPC,Person acquitted on such ground to be detained in safe custody
+947,335,CrPC,Power of State Government to empower officer in charge to discharge
+948,336,CrPC,Procedure where lunatic prisoner is reported capable of making his defence
+949,337,CrPC,Procedure where lunatic detained is declared fit to be released
+950,338,CrPC,Delivery of lunatic to care of relative or friend
+951,339,CrPC,Procedure in cases mentioned in section 
+952,340,CrPC,Appeal
+953,341,CrPC,Power to order Court
+954,342,CrPC,Procedure of Magistrate taking cognizance
+955,343,CrPC,Summary procedure for trial for giving false evidence
+956,344,CrPC,Procedure in certain cases of contempt
+957,345,CrPC,Procedure where Court considers that case should not be dealt with under section 
+958,346,CrPC,When Registrar or Sub-Registrar to be deemed a Civil Court
+959,347,CrPC,Discharge of offender on submission of apology
+960,348,CrPC,Imprisonment or committal of person refusing to answer or produce document
+961,349,CrPC,Summary procedure for punishment for non-attendance by a witness in obedience to summons
+962,350,CrPC,Appeals from convictions under sections , ,  and 0
+963,351,CrPC,Certain Judges and Magistrates not to try certain offences when committed before themselves
+964,352,CrPC,Judgment
+965,353,CrPC,Language and contents of judgment
+966,354,CrPC,Metropolitan Magistrate's Judgment
+967,355,CrPC,Order for notifying address of previously convicted offender
+968,356,CrPC,Order to pay compensation
+969,357,CrPC,Compensation to persons groundlessly arrested
+970,357A ,CrPC,Order to pay costs in non-cognizable cases
+971,357B ,CrPC,Order to release on probation of good conduct or after admonition
+972,357C ,CrPC,Special reasons to be recorded in certain cases
+973,358,CrPC,Court not to alter judgment
+974,359,CrPC,Copy of judgment to be given to the accused and other persons
+975,360,CrPC,Judgment when to be translated
+976,361,CrPC,Court of Session to send copy of finding and sentence to District Magistrate
+977,362,CrPC,Sentence of death to be submitted by Court of Session for confirmation
+978,363,CrPC,Power to direct further inquiry to be made or additional evidence to be taken
+979,364,CrPC,Power of High Court to confirm sentence or annul conviction
+980,365,CrPC,Confirmation or new sentence to be signed by two Judges
+981,366,CrPC,Procedure in case of difference of opinion
+982,367,CrPC,Procedure in cases submitted to High Court for confirmation
+983,368,CrPC,No appeal to lie unless otherwise provided
+984,369,CrPC,Appeal from orders requiring security or refusal to accept or rejecting surety for keeping peace or good behaviour
+985,370,CrPC,Appeals from convictions
+986,371,CrPC,No appeal in certain cases when accused pleads guilty
+987,372,CrPC,No appeal in petty cases
+988,373,CrPC,Appeal by the State Government against sentence
+989,374,CrPC,Appeal in case of acquittal
+990,375,CrPC,Appeal against conviction by High Court in certain cases
+991,376,CrPC,Special right of appeal in certain cases
+992,377,CrPC,Appeal to Court of Session how heard
+993,378,CrPC,Petition of appeal
+994,379,CrPC,Procedure when appellant in jail
+995,380,CrPC,Summary dismissal of appeal
+996,381,CrPC,Procedure for hearing appeals not dismissed summarily
+997,382,CrPC,Powers of the Appellate Court
+998,383,CrPC,Judgments of subordinate Appellate Court
+999,384,CrPC,Order of High Court on appeal to be certified to lower Court
+1000,385,CrPC,Suspension of sentence pending the appeal; release of appellant on bail
+1001,386,CrPC,Arrest of accused in appeal from acquittal
+1002,387,CrPC,Appellate Court may take further evidence or direct it to be taken
+1003,388,CrPC,Procedure where Judges of Court of appeal are equally divided
+1004,389,CrPC,Finality of judgments and orders on appeal
+1005,390,CrPC,Abatement of appeals
+1006,391,CrPC,Reference to High Court
+1007,392,CrPC,Disposal of case according to decision of High Court
+1008,393,CrPC,Calling for records to exercise powers of revision
+1009,394,CrPC,Power to order inquiry
+1010,395,CrPC,Sessions Judge's powers of revision
+1011,396,CrPC,Power of Additional Sessions Judge
+1012,397,CrPC,High Court's powers of revision
+1013,398,CrPC,Power of High Court to withdraw or transfer revision cases
+1014,399,CrPC,Option of Court to hear parties
+1015,400,CrPC,Statement by Metropolitan Magistrate of grounds of his decision to be considered by High Court
+1016,401,CrPC,High Court's order to be certified to lower Court
+1017,402,CrPC,Power of Supreme Court to transfer cases and appeals
+1018,403,CrPC,Power of High Court to transfer cases and appeals
+1019,404,CrPC,Power of Sessions Judge to transfer cases and appeals
+1020,405,CrPC,Withdrawal of cases and appeals by Sessions Judges
+1021,406,CrPC,Withdrawal of cases by Judicial Magistrates
+1022,407,CrPC,Making over or withdrawal of cases by Executive Magistrates
+1023,408,CrPC,Reasons to be recorded
+1024,409,CrPC,Execution of order passed under section 
+1025,410,CrPC,Execution of sentence of death passed by High Court
+1026,411,CrPC,Postponement of execution of sentence of death in case of appeal to Supreme Court
+1027,412,CrPC,Postponement of capital sentence on pregnant woman
+1028,413,CrPC,Power to appoint place of imprisonment
+1029,414,CrPC,Execution of sentence of imprisonment
+1030,415,CrPC,Direction of warrant for execution
+1031,416,CrPC,Warrant with whom to be lodged
+1032,417,CrPC,Warrant for levy of fine
+1033,418,CrPC,Effect of such warrant
+1034,419,CrPC,Warrant for levy of fine issued by a Court in any territory to which this Code does not extend
+1035,420,CrPC,Suspension of execution of sentence of imprisonment
+1036,421,CrPC,Who may issue warrant
+1037,422,CrPC,Sentence on escaped convict when to take effect
+1038,423,CrPC,Sentence on offender already sentenced for another offence
+1039,424,CrPC,Period of detention undergone by the accused to be set off against the sentence of imprisonment
+1040,425,CrPC,Saving
+1041,426,CrPC,Return of warrant on execution of sentence
+1042,427,CrPC,Money ordered to be paid recoverable as a fine
+1043,428,CrPC,Power to suspend or remit sentences
+1044,429,CrPC,Power to commute sentence
+1045,430,CrPC,Restriction on powers of remission or commutation in certain cases
+1046,431,CrPC,Concurrent power of Central Government in case of death sentences
+1047,432,CrPC,State Government to act after consultation with Central Government in certain cases
+1048,433,CrPC,In what cases bail to be taken
+1049,433A ,CrPC,Maximum period for which an under trial prisoner can be detained
+1050,434,CrPC,When bail may be taken in case of non-bailable offence
+1051,435,CrPC,Direction for grant of bail to person apprehending arrest
+1052,436,CrPC,Special powers of High Court or Court of Session regarding bail
+1053,436A ,CrPC,Amount of bond and reduction thereof
+1054,437,CrPC,Bond of accused and sureties
+1055,438,CrPC,Declaration by sureties
+1056,439,CrPC,Discharge from custody
+1057,440,CrPC,Power to order sufficient bail when that first taken is insufficient
+1058,441,CrPC,Discharge of sureties
+1059,441A ,CrPC,Deposit instead of recognizance
+1060,442,CrPC,Procedure when bond has been forfeited
+1061,443,CrPC,Cancellation of bond and bail bond
+1062,444,CrPC,Procedure in case of insolvency or death of surety or when a bond is forfeited
+1063,445,CrPC,Bond required from minor
+1064,446,CrPC,Appeal from orders under section 
+1065,446A ,CrPC,Power to direct levy of amount due on certain recognizances
+1066,447,CrPC,Order for custody and disposal of property pending trial in certain cases
+1067,448,CrPC,Order for disposal of property at conclusion of trial
+1068,449,CrPC,Payment to innocent purchaser of money found on accused
+1069,450,CrPC,Appeal against orders under section  or section 
+1070,451,CrPC,Destruction of libellous and other matter
+1071,452,CrPC,Power to restore possession of immovable property
+1072,453,CrPC,Procedure by police upon seizure of property
+1073,454,CrPC,Procedure when no claimant appears within six months
+1074,455,CrPC,Power to sell perishable property
+1075,456,CrPC,Irregularities which do not vitiate proceedings
+1076,457,CrPC,Irregularities which vitiate proceedings
+1077,458,CrPC,Proceedings in wrong place
+1078,459,CrPC,Non-compliance with provisions of section  or section 
+1079,460,CrPC,Effect of omission to frame, or absence of, or error in, charge
+1080,461,CrPC,Finding or sentence when reversible by reason of error, omission or irregularity
+1081,462,CrPC,Defect or error not to make attachment unlawful
+1082,463,CrPC,Definitions
+1083,464,CrPC,Bar to taking cognizance after lapse of the period of limitation
+1084,465,CrPC,Commencement of the period of limitation
+1085,466,CrPC,Exclusion of time in certain cases
+1086,467,CrPC,Exclusion of date on which Court is closed
+1087,468,CrPC,Continuing offence
+1088,469,CrPC,Extension of period of limitation in certain cases
+1089,470,CrPC,Trials before High Court
+1090,471,CrPC,Delivery to commanding officers of persons liable to be tried by Court-martial
+1091,472,CrPC,Forms
+1092,473,CrPC,Power of High Court to make rules
+1093,474,CrPC,Power to alter functions allocated to Executive Magistrates in certain cases
+1094,475,CrPC,Cases in which Judge or Magistrate is personally interested
+1095,476,CrPC,Practising pleader not to sit as Magistrate in certain Courts
+1096,477,CrPC,Public servant concerned in sale not to purchase or bid for property
+1097,478,CrPC,Saving of inherent power of High Court
+1098,479,CrPC,Duty of High Court to exercise continuous superintendence over Courts of Judicial Magistrates
+1099,480,CrPC,Repeal and savings
+1100,481,CrPC,Cognizance of offence []
+1101,482,CrPC,Victim compensation scheme
+1102,483,CrPC,Compensation to be in addition to fine under Section A or Section D of Indian Penal Code []
+1103,484,CrPC,Treatment of victims []
+1104,1,CPC,Short title, commencement and extent
+1105,2,CPC,Definitions
+1106,5,CPC,Application of the Code of Revenue Courts
+1107,6,CPC,Pecuniary jurisdiction
+1108,7,CPC,Provincial Small Cause Courts
+1109,8,CPC,Presidency Small Cause Courts
+1110,9,CPC,Courts to try all civil suits unless barred
+1111,10,CPC,Stay of suit
+1112,11,CPC,Res judicata
+1113,12,CPC,Bar to further suit
+1114,13,CPC,When foreign judgment not conclusive
+1115,14,CPC,Presumption as to foreign judgment
+1116,15,CPC,Court in which suits to be instituted
+1117,17,CPC,Suits for immovable property situate within jurisdiction of different Courts
+1118,19,CPC,Suits for compensation for wrongs to person or movable property
+1119,22,CPC,Power to transfer suits which may be instituted in more than one Court
+1120,23,CPC,To what Court application lies
+1121,24,CPC,General power of transfer and withdrawal
+1122,25,CPC,Power of Supreme Court to transfer suits, etc
+1123,26,CPC,Institution of suits
+1124,27,CPC,Summons to defendants
+1125,29,CPC,Service of foreign summons
+1126,30,CPC,Power to order discovery and the like
